@@ -1,0 +1,4 @@
+ImmutableMultiDict([('phrase', 'lets have some fun'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0|{'u', 'o', 'e', 'a'}
+ImmutableMultiDict([('phrase', 'doing great'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0|{'o', 'i', 'e', 'a'}
+ImmutableMultiDict([('phrase', 'comapring old and new'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0|{'i', 'e', 'o', 'a'}
+ImmutableMultiDict([('phrase', 'good , every thing wotkling fdin'), ('letters', 'abcd')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0|{'d'}
